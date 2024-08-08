@@ -2,6 +2,7 @@ import React, { useRef, useEffect } from "react";
 import backgroundImage1 from "/bg1.jpg";
 import { motion } from "framer-motion";
 function Home() {
+  //hello
   return (
     <div className="flex flex-col h-full bg-gray-950">
       {/* First Box */}
